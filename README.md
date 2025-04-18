@@ -25,7 +25,7 @@
 
 <!-- Method 1: Direct MP4 Embed -->
 <video width="100%" controls>
-  <source src="videos/2025-04-18 01-24-48.mp4" type="video/mp4">
+  <source src="2025-04-18 01-24-48.mp4" type="video/mp4">
   Your browser doesn't support HTML5 video
 </video>
 
