@@ -24,4 +24,5 @@
 ## 📽️ 𝓓𝓮𝓶𝓸𝓷𝓼𝓽𝓻𝓪𝓽𝓲𝓸𝓷𝓼  
 
 <!-- Method 1: Direct MP4 Embed -->
-![FE Bypass Demo](https://github.com/Bruvz322/portfilo/raw/main/videos/2025-04-18%2001-24-48.mp4)
+[![FE Bypass Demo](https://img.youtube.com/vi/NTMb50-yMHY/maxresdefault.jpg)](https://youtu.be/NTMb50-yMHY)
+
