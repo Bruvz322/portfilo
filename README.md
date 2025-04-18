@@ -12,7 +12,7 @@
                           
                           
     
-    Advanced game security research and Lua exploitation
+    Advanced game security research and Lua exploitation and game developement.
 --]]
 ```
 
