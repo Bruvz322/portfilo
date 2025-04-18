@@ -26,3 +26,10 @@
 <!-- Method 1: Direct MP4 Embed -->
 [![FE Bypass Demo](https://img.youtube.com/vi/NTMb50-yMHY/maxresdefault.jpg)](https://youtu.be/NTMb50-yMHY)
 
+[![FE Bypass Demo](https://img.youtube.com/vi/Yq6ycHU2Pvo/maxresdefault.jpg)](https://youtu.be/Yq6ycHU2Pvo)
+
+[![FE Bypass Demo](https://img.youtube.com/vi/VRcRxzWXldI/maxresdefault.jpg)](https://youtu.be/VRcRxzWXldI)
+
+[![FE Bypass Demo](https://img.youtube.com/vi/9CXRgb97IAQ/maxresdefault.jpg)](https://youtu.be/9CXRgb97IAQ)
+
+
